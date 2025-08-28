@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="dejifyportfolio.netlify.app">🌐 Portfolio</a> •
+  <a href="https://dejifyportfolio.netlify.app">🌐 Portfolio</a> •
   <a href="mailto:Omotoshoayodeji2021@gmail.com">✉️ Email</a> •
   <a href="https://www.linkedin.com/in/">💼 LinkedIn</a> •
   <a href="https://twitter.com/Dejifyhub">🐦 X/Twitter</a>
@@ -120,15 +120,7 @@
 
 
 
----
 
-## 📈 GitHub at a Glance
-
-<p>
-  <!-- Replace <USERNAME> with your handle or remove these if you prefer a cleaner look. -->
-  <img src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<USERNAME>" alt="GitHub streak"/>
-</p>
 
 ---
 
@@ -136,7 +128,7 @@
 
 I love working on **impactful web products**, especially where **JS/TS, React/Angular, Node/Express, or Django** can make a difference.
 
-* 📫 Reach me: \<YOUR\_EMAIL>
+* 📫 Reach me: Omotoshoayodeji2021@gmai.com
 * 💬 Ask me about: Frontend architecture, DX, testing, performance, accessibility
 
 ---
@@ -144,18 +136,10 @@ I love working on **impactful web products**, especially where **JS/TS, React/An
 ### Footer
 
 <p align="center">
-  <sub>© <span id="year">2025</span> <YOUR NAME>. Built with ❤️, coffee, and good docs.</sub>
+  <sub>© <span id="year">2025</span> <Dejify>. Built with ❤️, coffee, and good docs.</sub>
 </p>
 
 ---
-
-# Repository README Template (Copy into each project)
-
-# <Project Name>
-
-> One‑sentence value proposition that states the user problem and outcome.
-
-![Banner/Preview](./.github/preview.png)
 
 <p>
   <img alt="CI" src="https://img.shields.io/github/actions/workflow/status/<USER>/<REPO>/ci.yml?label=CI">
