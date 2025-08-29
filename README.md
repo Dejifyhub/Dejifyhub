@@ -65,8 +65,8 @@
       <p><strong>What it solves:</strong> Provides a full-stack shopping experience with authentication, product management, and payments.</p>
       <p><strong>Impact:</strong> Served **50+ daily test users**, demonstrating scalable architecture and real-world deployment.</p>
       <p>
-        <a href="https://github.com/<USER>/<REPO>"><img alt="Repo" src="https://img.shields.io/badge/Code-000?logo=github&logoColor=fff"></a>
-        <a href="https://<YOUR_APP_URL>"><img alt="Live" src="https://img.shields.io/badge/Live%20Demo-2ea44f"></a>
+        <a href="https://github.com/Dejifyhub/E-commerce-websites"><img alt="Repo" src="https://img.shields.io/badge/Code-000?logo=github&logoColor=fff"></a>
+        <a href="https://ecommercedejify.netlify.app/"><img alt="Live" src="https://img.shields.io/badge/Live%20Demo-2ea44f"></a>
         <a href="https://github.com/<USER>/<REPO>/issues"><img alt="Issues" src="https://img.shields.io/github/issues/<USER>/<REPO>"></a>
         <img alt="Stars" src="https://img.shields.io/github/stars/<USER>/<REPO>">
       </p>
@@ -79,7 +79,7 @@
       <p><strong>What it solves:</strong> Eliminates manual deployment by automating testing, linting, and deployment pipelines.</p>
       <p><strong>Impact:</strong> Reduced deployment time by **80%** and improved code reliability across projects.</p>
       <p>
-        <a href="https://github.com/<USER>/<REPO>"><img alt="Repo" src="https://img.shields.io/badge/Code-000?logo=github&logoColor=fff"></a>
+        <a href="https://github.com/dejifyhub"><img alt="Repo" src="https://img.shields.io/badge/Code-000?logo=github&logoColor=fff"></a>
       </p>
     </td>
   </tr>
